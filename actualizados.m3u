@@ -16,7 +16,7 @@ https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfiP7-FS7P9T1BS3ccGbF4SMxnoSKHIWQ81LHyJ0m0w&amp;s=10" group-title="News" tvg-chno="8",Telemedios 8
 https://hls.tvabierta.net/hls/008.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqGlY3JHUF6rj-xiedVljz8jHZJ5BNxJtHZp_JsLHaQ&amp;s=10" group-title="News" tvg-chno="9",Colorvision 9
-https://live.eu-north-1a.cf.dmcdn.net/sec2(_Ao7qIpTSV4xvgoiTB58ns0k4L7-0nlmA31Xp77LqaaFJxq9pt6ISsN2lmxkVw7b_X3MJVX4xkef1DYpM8ttjon06DU0nwbVphs2zjanseU-IhY5YCoFWtYOA6evM4ZO)/dm/3/x7gy059/d/live-480.m3u8?startdate=2026-09-03T23%3A24%3A16%2B0000
+http://45.5.117.188:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Movies" tvg-chno="10",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ7YVogLJ4ilKay_c-FDxETCC646tMlhb00GDUBf8SbQ&amp;s=10" group-title="News" tvg-chno="11",Telesistema 11
@@ -135,7 +135,7 @@ https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 http://45.185.163.75:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids" tvg-chno="68",Disney Channel Latin America Panregional HD (1080p)
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Y4ahiYu.png" group-title="Documentary" tvg-chno="69",Ecovisión (720p)
+#EXTINF:-1 tvg-logo="https://imgur.com/Y4ahiYu.png" group-title="Documentary" tvg-chno="69",EcovisiÃ³n (720p)
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="General" tvg-chno="70",El Pituco TV (720p)
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
@@ -151,7 +151,7 @@ https://stream.haislin.com/entelevision/index.m3u8
 https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U9OsybQ.jpg" group-title="General" tvg-chno="76",Entuno TV (1080p) [Not 24/7]
 https://soportedvb.click:3442/live/entunotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="General" tvg-chno="77",Farovisión (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="General" tvg-chno="77",FarovisiÃ³n (720p)
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Music" tvg-chno="78",Fuego TV [Not 24/7]
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
@@ -223,7 +223,7 @@ https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" group-title="General" tvg-chno="112",Marka TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="General" tvg-chno="113",Megavisión TV (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="General" tvg-chno="113",MegavisiÃ³n TV (480p)
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uODDaEY.png" group-title="General" tvg-chno="114",MI Turno TV
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
@@ -393,7 +393,7 @@ https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="General" tvg-chno="197",TV Daja (1080p) [Not 24/7]
 https://edge.essastream.com/dajatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="Music" tvg-chno="198",TV Éxitos (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="Music" tvg-chno="198",TV Ã‰xitos (720p)
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="General" tvg-chno="199",TV Higuey Digital (720p) [Not 24/7]
 https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
@@ -435,9 +435,9 @@ https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B3PrrMH.png" group-title="General" tvg-chno="218",Zonavision TV [Not 24/7]
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/156_Rewind_TV.png" group-title="Sin grupo" tvg-chno="219",Rewind TV ✪ | CL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/156_Rewind_TV.png" group-title="Sin grupo" tvg-chno="219",Rewind TV âœª | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/781_Elias_Pina_TV.png" group-title="Sin grupo" tvg-chno="220",Elias Piña TV ✪ | DO
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/781_Elias_Pina_TV.png" group-title="Sin grupo" tvg-chno="220",Elias PiÃ±a TV âœª | DO
 https://live.eliaspinatv.com.do/livelan/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/887_Hits_360.png" group-title="Sin grupo" tvg-chno="221",Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
@@ -463,7 +463,7 @@ https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
 https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/709_Acento_TV.png" group-title="Sin grupo" tvg-chno="232",Acento TV | DO
 http://acentotv01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/710_Ame.jpg" group-title="Sin grupo" tvg-chno="233",Amé | DO
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/710_Ame.jpg" group-title="Sin grupo" tvg-chno="233",AmÃ© | DO
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/711_Bajo_Techo_TV.jpg" group-title="Sin grupo" tvg-chno="234",Bajo Techo TV | DO
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8?PlaylistM3UCL
@@ -527,19 +527,19 @@ https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8?PlaylistM3UCL
 https://angelistic.live:3785/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/754_Television_A1.png" group-title="Sin grupo" tvg-chno="264",Television A1 | DO
 https://ss6.domint.net:2940/a1_str/a1tv/manifest.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/755_Television_del_Este.png" group-title="Sin grupo" tvg-chno="265",Televisión del Este | DO
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/755_Television_del_Este.png" group-title="Sin grupo" tvg-chno="265",TelevisiÃ³n del Este | DO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/756_TNI_51.jpg" group-title="Sin grupo" tvg-chno="266",TNI 51 | DO
 https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/707_TV_Cotui.jpg" group-title="Sin grupo" tvg-chno="267",TV Cotui | DO
 https://vdo2.streamgato.us:3095/live/tvcotuilive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/757_TV_Montana.jpg" group-title="Sin grupo" tvg-chno="268",TV Montaña | DO
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/757_TV_Montana.jpg" group-title="Sin grupo" tvg-chno="268",TV MontaÃ±a | DO
 https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/758_TV_Plata.jpg" group-title="Sin grupo" tvg-chno="269",TV Plata | DO
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/algo-media.png" group-title="General" tvg-chno="270",Algo Media TV (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/algomediatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/760_Vallevision.png" group-title="Sin grupo" tvg-chno="271",Vallevisión | DO
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/760_Vallevision.png" group-title="Sin grupo" tvg-chno="271",VallevisiÃ³n | DO
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/761_Vegavision_Canal_18.png" group-title="Sin grupo" tvg-chno="272",Vegavision Canal 18 | DO
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8?PlaylistM3UCL
