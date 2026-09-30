@@ -6,7 +6,7 @@ http://45.228.234.62:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="Entertainment" tvg-chno="3",Turismo HD (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="General" tvg-chno="4",Canal 4 RD (1080p)
-http://45.228.234.62:8000/play/a05y/index.m3u8
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6O8jMOWeXAyamLOOHvOxYJmyG4IS8vHnmpp_yJzZ5CRVY-yCdPp6MgqKR0-8erTc-PRJ__LfE8jw681e1OoTPQ" group-title="News" tvg-chno="5",Telemicro
 http://186.33.61.182:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Ol3CTJ3LFn-0plU0olc4Jfgts2lbwvsX5gsw3KkflA&s" group-title="News" tvg-chno="6",Canal 6 El Sol
