@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="Entertainment" tvg-chno="1",Xtremo Channel
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCxs5eD01E4vNOtIKcNs2A0vijb8eRYK-OXyqUm1jRkw&amp;s" group-title="News" tvg-chno="2",Teleantillas 2
-http://45.228.234.62:8000/play/a01w/index.m3u8
+http://38.252.238.18:8000/play/a004/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="Entertainment" tvg-chno="3",Turismo HD (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="General" tvg-chno="4",Canal 4 RD (1080p)
