@@ -24,7 +24,7 @@ https://hls.tvabierta.net/hls/011.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMXA-ewV1jsE8znYqVskYIA1ke0GpIrM2M2Hj7c2FNw&amp;s=10" group-title="News" tvg-chno="12",Teleunion 12
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToxaG7J-bnxWe6Coyfc_-fl9bONI23XSWtxVYyhdeyeQ&amp;s" group-title="News" tvg-chno="13",Telecentro
-http://186.33.0.57:8000/play/a02m/index.m3u8
+72.1.184.5:8089/play/a08k/ index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="Religious" tvg-chno="14",Adoram TV (720p)
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="General" tvg-chno="15",Digital 15 (1080p)
