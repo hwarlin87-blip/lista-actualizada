@@ -14,7 +14,7 @@ https://stream.canaldelsol.com/sol26/live_480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="General" tvg-chno="7",Antena 7 (480p)
 https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfiP7-FS7P9T1BS3ccGbF4SMxnoSKHIWQ81LHyJ0m0w&amp;s=10" group-title="News" tvg-chno="8",Telemedios 8
-https://live.eu-north-1b.cf.dmcdn.net/sec2(uvWBzjcTdnD3GMMAQ-YjiABAjBd8Lxl1o23cE5yAwInG5OdMrLlRLml-6G_Z-z_DNuIy8hRAd9zNraWe74Gx-J2maOptVAPK72B5Ys1cx7aRLTZCggUF6bZLHR6_xFBAWx9y4IVHdN7puRA9W78-W78xpNV1nLR4eqtoxcrGjoUusEbTXL2QVYNB16iocB3c)/dm/4/x9hvyy0/live-h264-480.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(uNLpk9JhdFITjtnHMA0-tN7tg9dhLDC4NYcXI2heeNNQK7RzE6WDKJXCiMro16ARIFWIrEoJktmjdBnKu4UWP_WZkw4mf0UlwPZT-EjKXQBW3yL7_x-472DkUSdhYwj9a7F-Q2D0qocjYqf-ayt3lcZ5xJwS0ROERcPEkZsQqcU7VkiZg2RZN_1FbUSjx3dx)/dm/4/x9hvyy0/live-h264-480.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqGlY3JHUF6rj-xiedVljz8jHZJ5BNxJtHZp_JsLHaQ&amp;s=10" group-title="News" tvg-chno="9",Colorvision 9
 https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Movies" tvg-chno="10",Mega Cine TV (1080p)
