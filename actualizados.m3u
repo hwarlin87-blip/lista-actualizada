@@ -8,7 +8,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="General" tvg-chno="4",Canal 4 RD (1080p)
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6O8jMOWeXAyamLOOHvOxYJmyG4IS8vHnmpp_yJzZ5CRVY-yCdPp6MgqKR0-8erTc-PRJ__LfE8jw681e1OoTPQ" group-title="News" tvg-chno="5",Telemicro
-http://200.115.120.1:8000/play/ca085/index.m3u8
+http://10.102.0.254:9090/play/rutQyVD1xQpV_gGs5XBtOLvSxlzv-M463sZAA2aTLwM/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Ol3CTJ3LFn-0plU0olc4Jfgts2lbwvsX5gsw3KkflA&s" group-title="News" tvg-chno="6",Canal 6 El Sol
 https://stream.canaldelsol.com/sol26/live_480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="General" tvg-chno="7",Antena 7 (480p)
