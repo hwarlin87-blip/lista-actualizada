@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="Entertainment" tvg-chno="1",Xtremo Channel
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCxs5eD01E4vNOtIKcNs2A0vijb8eRYK-OXyqUm1jRkw&amp;s" group-title="News" tvg-chno="2",Teleantillas 2
-http://38.252.238.18:8000/play/a004/index.m3u8?hls
+http://45.228.234.62:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="Entertainment" tvg-chno="3",Turismo HD (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="General" tvg-chno="4",Canal 4 RD (1080p)
@@ -24,7 +24,7 @@ https://cdn4.wind.do/streams/telesistema/telesistema_1080.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMXA-ewV1jsE8znYqVskYIA1ke0GpIrM2M2Hj7c2FNw&amp;s=10" group-title="News" tvg-chno="12",Teleunion 12
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToxaG7J-bnxWe6Coyfc_-fl9bONI23XSWtxVYyhdeyeQ&amp;s" group-title="News" tvg-chno="13",Telecentro
-http://38.252.238.18:8000/play/a01x/index.m3u8?hls
+http://186.33.0.57:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="Religious" tvg-chno="14",Adoram TV (720p)
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="General" tvg-chno="15",Digital 15 (1080p)
