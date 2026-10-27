@@ -81,8 +81,8 @@ http://45.5.118.152:8000/play/a00a/index.m3u8
 http://45.5.118.152:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="General" tvg-chno="41",Canal Catorce (1080p) [Not 24/7]
 https://stream.haislin.com/14tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="General" tvg-chno="42",Canal del Sol (1080p) [Not 24/7]
-https://stream.canaldelsol.com/sol26/live_1080.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/1280px-Logotipo_de_TV_Azteca.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="General" tvg-chno="42",Tv Azteca
+http://45.228.234.62:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="General" tvg-chno="43",Canal DTV (720p)
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puOrL7B.jpg" group-title="Entertainment" tvg-chno="44",Multivision
