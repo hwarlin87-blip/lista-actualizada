@@ -84,7 +84,7 @@ https://stream.haislin.com/14tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/1280px-Logotipo_de_TV_Azteca.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="General" tvg-chno="42",Tv Azteca
 http://45.228.234.62:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="General" tvg-chno="43",Canal DTV (720p)
-https://s.emisoras.tv:8081/dtv/index.m3u8
+http://nexusconnects.org:80/play/live.php?mac=00:1B:79:45:46:AC&stream=1091742&extension=ts&play_token=kBgG26eO8T
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puOrL7B.jpg" group-title="Entertainment" tvg-chno="44",Multivision
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png" group-title="General" tvg-chno="45",Canalda 26 HD [Not 24/7]
