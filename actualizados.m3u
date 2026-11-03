@@ -12,7 +12,7 @@ http://168.228.44.241:9997/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Ol3CTJ3LFn-0plU0olc4Jfgts2lbwvsX5gsw3KkflA&s" group-title="News" tvg-chno="6",Canal 6 El Sol
 https://stream.canaldelsol.com/sol26/live_480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="General" tvg-chno="7",Antena 7 (480p)
-https://d2h2wh04y3aqtb.cloudfront.net/hls/1odfmwd056bc/5_4/index.m3u8
+https://d1jagpxpm5efql.cloudfront.net/0_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfiP7-FS7P9T1BS3ccGbF4SMxnoSKHIWQ81LHyJ0m0w&amp;s=10" group-title="News" tvg-chno="8",Telemedios 8
 http://200.115.120.1:8000/play/ca122/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqGlY3JHUF6rj-xiedVljz8jHZJ5BNxJtHZp_JsLHaQ&amp;s=10" group-title="News" tvg-chno="9",Colorvision 9
@@ -40,7 +40,7 @@ https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/chunklist_w1225931800.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="Entertainment" tvg-chno="20",TVS (540p) [Not 24/7]
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Entertainment" tvg-chno="21",Antena 21 (480p)
-https://d21uk5ebeh08za.cloudfront.net/3_4/index.m3u8
+https://d21uk5ebeh08za.cloudfront.net/4_7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWvVLhc.png" group-title="General" tvg-chno="22",Altanto TV (1080p) [Not 24/7]
 https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="General" tvg-chno="23",Telefuturo (480p) [Not 24/7]
