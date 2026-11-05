@@ -12,7 +12,7 @@ http://168.228.44.241:9997/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Ol3CTJ3LFn-0plU0olc4Jfgts2lbwvsX5gsw3KkflA&s" group-title="News" tvg-chno="6",Canal 6 El Sol
 https://stream.canaldelsol.com/sol26/live_480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="General" tvg-chno="7",Antena 7 (480p)
-72.1.184.5:8089/play/a06j/index.m3u8
+http://186.33.0.57:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfiP7-FS7P9T1BS3ccGbF4SMxnoSKHIWQ81LHyJ0m0w&amp;s=10" group-title="News" tvg-chno="8",Telemedios 8
 http://200.115.120.1:8000/play/ca122/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqGlY3JHUF6rj-xiedVljz8jHZJ5BNxJtHZp_JsLHaQ&amp;s=10" group-title="News" tvg-chno="9",Colorvision 9
