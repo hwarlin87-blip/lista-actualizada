@@ -60,7 +60,7 @@ http://186.33.0.57:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Entertainment" tvg-chno="30",Bellavision (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TMvV9dF.png" group-title="General" tvg-chno="31",Telecontacto
-http://186.33.0.57:8000/play/a03s/index.m3u8
+http://200.115.120.1:8000/play/ca172/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/npiRBPC.png" group-title="General" tvg-chno="32",Boca Chica TV (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kp8x0NS.png" group-title="Entertainment" tvg-chno="33",Bonches Latinos TV (720p)
