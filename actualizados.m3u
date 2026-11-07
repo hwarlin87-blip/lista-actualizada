@@ -70,7 +70,7 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="General" tvg-chno="35",Bonao TV (720p) [Not 24/7]
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" group-title="Entertainment" tvg-chno="36",Galaxia TV (360p)
-https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+http://186.33.0.57:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3d8cLm9.jpg" group-title="General" tvg-chno="37",Camu TV (480p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="General" tvg-chno="38",ESPN MX
