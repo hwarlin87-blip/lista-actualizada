@@ -44,7 +44,7 @@ https://d21uk5ebeh08za.cloudfront.net/4_7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWvVLhc.png" group-title="General" tvg-chno="22",Altanto TV (1080p) [Not 24/7]
 https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="General" tvg-chno="23",Telefuturo (480p) [Not 24/7]
-http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(yvxVg0PZBhpXY5IOfm8rHIX_jOerKYRsyqsbpg33HHABuiD9dV_kSkLIqFav4_R9s8UZz_TirmCPwr9plmDzvvEjOKmhX9k21AmxBZqZrREQASE6UE6FLgrJYep1gPP2)/cloud/3/x9imtbq/s/live-480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IpInp05.png" group-title="News" tvg-chno="24",Telecibao
 https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EvX5aqI.png" group-title="General" tvg-chno="25",Luna TV Canal 53 (720p)
