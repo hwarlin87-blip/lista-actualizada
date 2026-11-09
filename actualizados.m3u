@@ -72,7 +72,7 @@ https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" group-title="Entertainment" tvg-chno="36",Galaxia TV (360p)
 http://186.33.0.57:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3d8cLm9.jpg" group-title="General" tvg-chno="37",Camu TV (480p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
+https://aka-live1050.delivery.roku.com/c654b2e4-c38f-4e75-aeaa-6f33e3782f39/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="General" tvg-chno="38",ESPN MX
 http://45.5.118.152:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="Deports" tvg-chno="39",ESPN 2 MX
