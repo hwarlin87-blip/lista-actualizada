@@ -56,7 +56,7 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:206532-6829902/chunklist_b3500000.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Shop" tvg-chno="28",Bajo Techo TV (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3wQtY1EgkYKjO1IGgLDRNlngadoOLslM3zVZaNx_8g&amp;s=10" group-title="News" tvg-chno="29",Teleuniverso 29
-http://186.33.0.57:8000/play/a02j/index.m3u8
+http://45.228.234.62:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Entertainment" tvg-chno="30",Bellavision (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TMvV9dF.png" group-title="General" tvg-chno="31",Telecontacto
