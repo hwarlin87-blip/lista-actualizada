@@ -38,7 +38,7 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_cCyWrzr4RuizAoImuBh2pLRMd1zw82VmheL7NapjA&s" group-title="News" tvg-chno="19",Cinevision 19
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/chunklist_w1225931800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="Entertainment" tvg-chno="20",TVS (540p) [Not 24/7]
-https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Entertainment" tvg-chno="21",Antena 21 (480p)
 https://hls.tvabierta.net/hls/021.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWvVLhc.png" group-title="General" tvg-chno="22",Altanto TV (1080p) [Not 24/7]
